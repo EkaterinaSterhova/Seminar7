@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task47\bin\HPD\Debug\net6.0\Task47.exe
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task47\bin\HPD\Debug\net6.0\Task47.deps.json
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task47\bin\HPD\Debug\net6.0\Task47.runtimeconfig.json
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task47\bin\HPD\Debug\net6.0\Task47.dll
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task47\bin\HPD\Debug\net6.0\Task47.pdb
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task47\obj\HPD\Debug\net6.0\Task47.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task47\obj\HPD\Debug\net6.0\Task47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task47\obj\HPD\Debug\net6.0\Task47.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task47\obj\HPD\Debug\net6.0\Task47.AssemblyInfo.cs
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task47\obj\HPD\Debug\net6.0\Task47.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task47\obj\HPD\Debug\net6.0\Task47.dll
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task47\obj\HPD\Debug\net6.0\refint\Task47.dll
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task47\obj\HPD\Debug\net6.0\Task47.pdb
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task47\obj\HPD\Debug\net6.0\Task47.genruntimeconfig.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task47\obj\HPD\Debug\net6.0\ref\Task47.dll
