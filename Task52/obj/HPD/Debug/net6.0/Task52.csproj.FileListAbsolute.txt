@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task52\obj\HPD\Debug\net6.0\Task52.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task52\obj\HPD\Debug\net6.0\Task52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task52\obj\HPD\Debug\net6.0\Task52.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task52\obj\HPD\Debug\net6.0\Task52.AssemblyInfo.cs
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task52\obj\HPD\Debug\net6.0\Task52.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task52\bin\HPD\Debug\net6.0\Task52.exe
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task52\bin\HPD\Debug\net6.0\Task52.deps.json
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task52\bin\HPD\Debug\net6.0\Task52.runtimeconfig.json
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task52\bin\HPD\Debug\net6.0\Task52.dll
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task52\bin\HPD\Debug\net6.0\Task52.pdb
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task52\obj\HPD\Debug\net6.0\Task52.dll
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task52\obj\HPD\Debug\net6.0\refint\Task52.dll
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task52\obj\HPD\Debug\net6.0\Task52.pdb
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task52\obj\HPD\Debug\net6.0\Task52.genruntimeconfig.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 7\Sem7\HomeWork\Task52\obj\HPD\Debug\net6.0\ref\Task52.dll
